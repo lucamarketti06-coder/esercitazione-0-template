@@ -30,7 +30,11 @@ ho incluso hello.c, a.out e ora includo anche osservazioni.md
 Come ho verificato che la versione provata sia presente su GitHub:
 utilizzando git status
 Che cosa ho osservato prima e dopo `git pull`, e perché non serve un nuovo clone:
+<<<<<<< HEAD
 ho provato git pull ma il file era già up to date, non è necessario un clone perchè ci sono gia i commit
+=======
+aggiungo una frase
+>>>>>>> 13aa5457e91abee3f030e863e1bba3d0accb1d94
 ## Step 2 — Eco: prima prova
 
 Argomenti passati, comando e risultato:
