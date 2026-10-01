@@ -1,7 +1,7 @@
 # Osservazioni — Esercitazione 0
 
 Gruppo:
-Luca Marchetti, lucamarketti06-coder; Marco Maresca (oggi assente), aggiungo una frase
+Luca Marchetti, lucamarketti06-coder; Marco Maresca (oggi assente), 
 Componenti (nome, cognome e username GitHub di entrambi):
 
 URL del repository condiviso:
